@@ -18,7 +18,7 @@ options to tsconfig.
 - Closes: https://github.com/microsoft/TypeScript/pull/39840
 
 ## Usage with vscode
-
+ich schreib mal bitte was 
 ```js
 npm i -g vscode-typescript@https://github.com/stealify/typescript
 # Getting global path
